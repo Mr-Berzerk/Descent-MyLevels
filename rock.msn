@@ -1,0 +1,26 @@
+name = Molten Rock
+type = normal
+num_levels = 1
+rock.rdl
+num_secrets = 0
+editor = 
+build_time = 
+revision = 
+author = Berzerk
+web_site = 
+email = berzerk_j@hotmail.com
+date = 
+briefing = 
+custom_textures = no
+custom_robots = no
+custom_music = no
+normal = yes
+anarchy = yes
+robo_anarchy = yes
+coop = yes
+capture_flag = no
+hoard = no
+multi_author = no
+want_feedback = no
+; This level wasn't made for newbie's, and LOOK fo secret 
+; passages.
